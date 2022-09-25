@@ -90,7 +90,7 @@
         "happiness": 3,
         "unique": ["[+1 Gold, +1 Happiness] [in all cities]","Gain a free [Modern Bridge] [in all cities]"],
         "requiredTech": "Electronics"
-        }
+        },
 ]
     
     
