@@ -1,0 +1,98 @@
+[
+   {
+        "name": "Wind Farm",
+        "cost": 80,
+        "gold": 2,
+        "maintenance": 1,
+        "hurryCostModifier": 25,
+        "unique": ["[+1 Happiness, +1 Production] [in this city]","Destroyed when the city is captured"],
+        "requiredTech": "Ecology"
+     },
+    {
+       "name": "Publishing House",
+       "cost": 65,
+        "culture": 1,
+        "science": 1,
+        "maintenance": 0,
+        "hurryCostModifier": 25,
+        "unique": ["[+1 Happiness] [in this city]","Destroyed when the city is captured"],
+        "requiredTech": "Printing Press" 
+     },
+    {
+       "name": "Supermarket",
+       "cost": 70,
+        "gold": 2,
+        "maintenance": 0,
+        "hurryCostModifier": 25,
+        "unique": ["[+25]% [Gold] from [Bonus resource] tiles [in this city]","[+25]% [Gold] from [Luxury resource] tiles [in this city]","Destroyed when the city is captured"],
+        "requiredTech": "Economics"
+      },
+     {
+        "name": "One Pillar Pagoda",
+        "uniqueTo": "Vietnam",
+        "isNationalWonder": true,
+        "faith": 2,
+        "culture": 2,
+        "cost": 120
+        "unique": ["[+1 Happiness, +1 Faith, +1 Culture] [in all cities]"],
+        "requiredTech": "Construction"
+      },
+     {
+        "name": "Bridge",
+        "cost": 100,
+        "gold": 2,
+        "maintenance": 1,
+        "hurryCostModifier": 25,
+        "unique": ["Must be on [River]","Destroyed when the city is captured"],
+        "requiredTech": "Engineering"
+      },
+     {
+        "name": "Modern Bridge",
+        "cost": 120,
+        "gold": 2,
+        "maintenance": 1,
+        "hurryCostModifier": 25,
+        "unique": ["[+1 Happiness] [in this city]","Must be on [River]","Destroyed when city is captured"],
+        "requiredBuilding": "Bridge",
+        "requiredTech": "Electricity"
+      },
+     {
+        "name": "Greenhouse",
+        "cost": 60,
+        "food": 2,
+        "maintenance": 0,
+        "hurryCostModifier": 25,
+        "unique": ["[+1 Food] from [Bananas] tiles [in this city]","[+1 Food] from [Olives] tiles [in this city]","[+1 Food] from [Spices] tiles [in this city]","Destroyed when the city is captured"],
+        "requiredTech": "Fertilizer"
+      },
+     {
+        "name": "Fish Farm",
+        "cost": 60,
+        "gold": 1,
+        "food": 1,
+        "maintenance": 0,
+        "hurryCostModifier": 25,
+        "unique": ["[+1 Food] from [Fish] tiles [in this city]","Must be on [River]",Must be next to [Coast]","Must be next to [Lake]","Destroyed when the city is captured"],
+        "requiredTech": "Fertilizer"
+      },
+     {
+        "name": "Fansipan Cable Car",
+        "gold": 3,
+        "culture": 3,
+        "isWonder": true,
+        "unique": ["[+1 Happiness] [in all cities]
+        "requiredTech": "Electronics",
+        "quote": "This is the LONGEST cable car in the world. It is located in Sapa, Vietnam."
+      },
+     {
+        "name": "Da Nang Golden Bridge",
+        "gold": 3,
+        "happiness": 3,
+        "unique": ["[+1 Gold, +1 Happiness] [in all cities]","Gain a free [Modern Bridge] [in all cities]"],
+        "requiredTech": "Electronics"
+        }
+]
+    
+    
+    
+     
