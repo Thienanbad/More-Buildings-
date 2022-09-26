@@ -72,7 +72,7 @@
         "food": 1,
         "maintenance": 0,
         "hurryCostModifier": 25,
-        "unique": ["[+1 Food] from [Fish] tiles [in this city]","Must be on [River]",Must be next to [Coast]","Must be next to [Lake]","Destroyed when the city is captured"],
+        "unique": ["[+1 Food] from [Fish] tiles [in this city]","Must be on [River]","Must be next to [Coast]","Must be next to [Lake]","Destroyed when the city is captured"],
         "requiredTech": "Fertilizer"
       },
      {
