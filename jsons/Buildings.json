@@ -80,7 +80,7 @@
         "gold": 3,
         "culture": 3,
         "isWonder": true,
-        "unique": ["[+1 Happiness] [in all cities]
+        "unique": ["[+1 Happiness] [in all cities]",
         "requiredTech": "Electronics",
         "quote": "This is the LONGEST cable car in the world. It is located in Sapa, Vietnam."
       },
